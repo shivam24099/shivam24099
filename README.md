@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Shivam Sharma 👋
 
-<!--
-**shivam24099/shivam24099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence & Machine Learning Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about Machine Learning, Generative AI, and Software Development. I enjoy building practical AI applications and learning how modern ML systems work.
+
+Currently exploring:
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- ChromaDB
+- Ollama
+- FastAPI
+- Machine Learning
+
+## Tech Stack
+
+### Languages
+- Python
+- Java
+- C++
+- SQL
+
+### Libraries & Tools
+- NumPy
+- Pandas
+- Streamlit
+- ChromaDB
+- Git
+- GitHub
+- Ollama
+
+## Current Project
+
+🚀 AI-Powered PDF Chatbot using:
+- Streamlit
+- ChromaDB
+- Sentence Transformers
+- Ollama
+- RAG Architecture
+
+## Learning
+
+- FastAPI
+- Advanced Machine Learning
+- ML System Design
+- Vector Databases
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/shivam-sharma-a93702328
