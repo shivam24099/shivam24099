@@ -15,5 +15,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
 </p>
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam24099&show_icons=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=shivam24099)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam24099&layout=compact)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/shivam-sharma-a93702328)
+[![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:sharmashivam2405@gmail.com)
