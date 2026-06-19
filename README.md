@@ -1,52 +1,18 @@
-# Hi, I'm Shivam Sharma 👋
+# Hi 👋, I'm Shivam Sharma
 
-🎓 B.Tech Artificial Intelligence & Machine Learning Student
+🎓 B.Tech AI & ML Student
 
-## About Me
+💻 Passionate about Machine Learning, Generative AI, and Software Development
 
-I am passionate about Machine Learning, Generative AI, and Software Development. I enjoy building practical AI applications and learning how modern ML systems work.
+🚀 Currently building RAG Applications using ChromaDB, Ollama, and Streamlit
 
-Currently exploring:
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- ChromaDB
-- Ollama
-- FastAPI
-- Machine Learning
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
+</p>
 
-## Tech Stack
 
-### Languages
-- Python
-- Java
-- C++
-- SQL
-
-### Libraries & Tools
-- NumPy
-- Pandas
-- Streamlit
-- ChromaDB
-- Git
-- GitHub
-- Ollama
-
-## Current Project
-
-🚀 AI-Powered PDF Chatbot using:
-- Streamlit
-- ChromaDB
-- Sentence Transformers
-- Ollama
-- RAG Architecture
-
-## Learning
-
-- FastAPI
-- Advanced Machine Learning
-- ML System Design
-- Vector Databases
-
-## Connect With Me
-
-- LinkedIn: www.linkedin.com/in/shivam-sharma-a93702328
